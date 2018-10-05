@@ -1,0 +1,1 @@
+il y a deux dossier sur ce repo, des fichiers ruby dispersé et un seul fichier ruby avec les methodes. 
